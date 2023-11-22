@@ -43,5 +43,3 @@ Esses dados coletados serão usados para otimizar automaticamente a estrutura do
 | feedback_usuario | id_fluxo | int | O número de identificação do fluxo que está associado ao feedback do usuário, que é uma chave estrangeira que referencia a tabela fluxo |
 | feedback_usuario | descricao | nvarchar(40) | A descrição do feedback do usuário |
 | feedback_usuario | nota | int | A nota do feedback do usuário, que pode ser de 1 a 5 |
-
-Espero que isso te ajude. 😊
