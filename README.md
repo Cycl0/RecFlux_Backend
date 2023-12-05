@@ -2,8 +2,8 @@
 Projeto de Exetensão Instituto Federal de São Paulo (IFSP) - Recflux Framework Web
 
 ## Propósito
-Protótipo basico da ideia do banco de dados voltado para o website no qual os clientes (donos dos sites que usam a ferramenta) irão gerenciar suas assinaturas e verificar dados de web analytics voltados para a interação dos usuários com os componentes do site usando a Framework.
-Esses dados coletados serão usados para otimizar automaticamente a estrutura do website ou apenas dar sugestões ou ter opções (trilhas) que usuário poderá escolher. Essas trilhas criadas com os dados com o intermédio de modelos de inteligência artificial serão otimizadas para o UI/UX e exerceram influência no próprio design ou estrutura dos websites utilizando a ferramenta.
+Protótipo basico da ideia do banco de dados voltado para o website no qual os clientes (proprietários dos sites que usam a ferramenta) irão gerenciar suas assinaturas e verificar dados de web analytics voltados para a interação dos usuários finais com os componentes do site usando a Framework.
+Esses dados coletados serão usados para otimizar automaticamente a estrutura do website ou dar sugestões e recomendações, exibindo (trilhas) que usuário poderá escolher. Essas trilhas criadas com os dados com o intermédio de modelos de inteligência artificial serão otimizadas para o UI/UX e exerceram influência no próprio design ou estrutura dos websites utilizando o framework, além de servir como base pra ferramentas externas como plugins para IDEs integrados com o framework.
 
 ## Entidades e suas tabelas
 | Tabela | Campo | Tipo | Descrição |
